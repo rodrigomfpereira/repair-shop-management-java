@@ -41,7 +41,7 @@ Before running the application, you need to initialize the database schema:
 
 ### Running via Release
 
-1. Open the  
+1. Open the [![GitHub release](https://img.shields.io/github/v/release/rodrigomfpereira/repair-shop-management-java)](https://github.com/rodrigomfpereira/repair-shop-management-java/releases/latest)
 2. Download the compiled application.jar file.
 3. Run the application via terminal (```java -jar application.jar```) or by double-clicking the file.
 
